@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring the coding galaxy
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Apple inc.
-- 📫 How to reach me instagram.com/oryanz/
+- 📫 How to reach me https://instagram.com/oryanz/
 
 <!---
 oryanz/oryanz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
